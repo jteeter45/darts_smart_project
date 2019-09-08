@@ -1,5 +1,5 @@
 """
-WSGI config for darts_smart project.
+WSGI config for smart_proj project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'darts_smart.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'smart_proj.settings')
 
 application = get_wsgi_application()

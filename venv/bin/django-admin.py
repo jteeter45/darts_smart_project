@@ -1,4 +1,4 @@
-#!/home/jackt/DartsSmartProject/venv/bin/python3
+#!/home/jackt/DartsSmartProject/darts_smart_project/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
